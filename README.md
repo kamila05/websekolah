@@ -1,0 +1,11 @@
+# websekolah
+![alt text](https://github.com/kamila05/websekolah/blob/master/sm1.png)
+![alt text](https://github.com/kamila05/websekolah/blob/master/sm2.png)
+![alt text](https://github.com/kamila05/websekolah/blob/master/sm3.png)
+![alt text](https://github.com/kamila05/websekolah/blob/master/sm4.png)
+![alt text](https://github.com/kamila05/websekolah/blob/master/sm5.png)
+![alt text](https://github.com/kamila05/websekolah/blob/master/sm6.png)
+![alt text](https://github.com/kamila05/websekolah/blob/master/sm7.png)
+![alt text](https://github.com/kamila05/websekolah/blob/master/sm8.png)
+![alt text](https://github.com/kamila05/websekolah/blob/master/sm9.png)
+![alt text](https://github.com/kamila05/websekolah/blob/master/sm10.png)
